@@ -1,0 +1,19 @@
+.footer {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 20px;
+  
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  
+    p {
+      margin: 5px 0;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  }
+  

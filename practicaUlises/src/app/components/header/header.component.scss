@@ -1,0 +1,22 @@
+.header {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    text-align: center;
+  
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  
+    .app-name {
+      font-size: 1.5rem;
+      color: #333;
+    }
+  
+    .logo {
+      width: 40px;
+      height: auto;
+    }
+  }
+  
